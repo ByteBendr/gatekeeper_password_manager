@@ -6,6 +6,8 @@ from getpass import getpass
 import re
 import time
 
+# Gatekeeper Password Manager Version 1.0.1 (Author: Lucian)
+
 # Constants
 DB_FILE = 'passwords.db'
 MASTER_PASS_FILE = 'master_pass.key'
